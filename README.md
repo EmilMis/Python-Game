@@ -9,3 +9,4 @@
 
 ---NAPOMENA---
 igra još nije gotova, pa je zato puna bug-ova!
+Ako imate epilepsiju, molim Vas da ne igrate
